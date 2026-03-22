@@ -172,8 +172,8 @@ Net Salary  =  Gross Salary − Total Deductions
 
 **Built with ❤️ for Corporate HR & Finance Teams**
 
-![GitHub](https://github.com/HafizJee786)
-![LinkedIn](https://www.linkedin.com/in/hafiz-ali-hasnain-5b8045230?)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmad--raza-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/ahmad-raza](https://github.com/HafizJee786))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Raza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ahmad-raza-123](https://www.linkedin.com/in/hafiz-ali-hasnain-5b8045230?))
 
 </div>
 
